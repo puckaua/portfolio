@@ -1,0 +1,4 @@
+/downloads/TetrisInstaller.exe
+  Content-Type: application/octet-stream
+  Content-Disposition: attachment; filename="TetrisInstaller.exe"
+  Cache-Control: public, max-age=31536000
